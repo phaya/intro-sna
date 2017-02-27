@@ -1,0 +1,7 @@
+from,to,weight
+andres,maria,0.3
+andres,daniel,0.3
+maria,ana,0.5
+ana,andres,0.7
+daniel,andres,0.8
+daniel,ana,0.1
